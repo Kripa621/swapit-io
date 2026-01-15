@@ -1,0 +1,15 @@
+{
+  "name": "swapit-io",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Barter-based digital marketplace built using MERN stack",
+  "workspaces": [
+    "packages/client",
+    "packages/server",
+    "packages/shared"
+  ],
+  "scripts": {
+    "dev": "echo \"Use client and server scripts\"",
+    "lint": "echo \"Lint later\""
+  }
+}
